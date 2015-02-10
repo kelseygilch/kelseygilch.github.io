@@ -27,7 +27,11 @@ header {
 
 .subtitle {
 	font-family: Cambria;
-	font-size: 20px;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.stress {
 	font-weight: bold;
 }
 
