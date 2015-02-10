@@ -15,7 +15,7 @@ header {
 
 #content {
 	font-family: Cambria;
-	font-size: 14px;	
+	font-size: 15px;	
 }
 
 
@@ -27,7 +27,7 @@ header {
 
 .subtitle {
 	font-family: Cambria;
-	font-size: 18px;
+	font-size: 17px;
 	font-weight: bold;
 }
 
@@ -38,5 +38,5 @@ header {
 .footer {
 	font-family: Cambria;
 	text-align: center;
-	font-size: 15px;
+	font-size: 14px;
 }
