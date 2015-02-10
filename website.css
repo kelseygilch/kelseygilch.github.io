@@ -1,16 +1,18 @@
 /* website.css */
 
-header{
+header {
 	text-align: center;
 	font-weight: ;
-	font-family: ;
-	font-size: ;
+	font-family: Cambria;
+	font-size: 20px;
 }
 
-body {
+#subheader{
 	font-family: Cambria;
-	font-size: 14px;
+	font-size: 18px;
+	text-align: center;
 }
+
 
 #centerimg {
 	display: block;
