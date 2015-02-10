@@ -35,6 +35,10 @@ header {
 	font-weight: bold;
 }
 
+.italics {
+	font-style: italic;
+}
+
 .footer {
 	font-family: Cambria;
 	text-align: center;
