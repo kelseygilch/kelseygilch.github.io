@@ -8,7 +8,10 @@ header{
 }
 
 body {
-	font-family: Helvetica;
-	font-size: 28px;
+	font-family: Cambria;
+	font-size: 14px;
 }
 
+#pic {
+	text-align: center;
+}
