@@ -20,7 +20,6 @@ header {
 	font-size: 15px;	
 }
 
-
 .center {
 	display: block;
 	margin-left: auto;
@@ -45,4 +44,11 @@ header {
 	font-family: Cambria;
 	text-align: center;
 	font-size: 14px;
+}
+
+
+#run{
+	font-family: Cambria;
+	font-size: 15px;
+	border-style: dotted;
 }
