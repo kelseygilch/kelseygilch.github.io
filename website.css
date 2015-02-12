@@ -30,14 +30,6 @@ body.color {
 	margin-left: auto;
     margin-right: auto;
 }
-
-.bottom {
-	position: fixed;
-	bottom: 5px;
-	left: 5px;
-	right: 5px;
-}
-
 .subtitle {
 	font-family: Cambria;
 	font-size: 17px;
