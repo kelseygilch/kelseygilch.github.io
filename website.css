@@ -56,5 +56,6 @@ body.color {
 	font-family: Cambria;
 	font-size: 15px;
 	border-style: dotted;
+	text-align: center;
 	background-color: #AFEEEE;
 }
