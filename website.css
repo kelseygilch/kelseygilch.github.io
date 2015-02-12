@@ -31,11 +31,6 @@ body.color {
     margin-right: auto;
 }
 
-.bottom {
-	position: fixed;
-	bottom: 5px;
-}
-
 .subtitle {
 	font-family: Cambria;
 	font-size: 17px;
