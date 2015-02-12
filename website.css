@@ -33,7 +33,6 @@ body.color {
 
 .bottom {
 	position: fixed;
-	top: 500px;
 	bottom: 5px;
 	left: 5px;
 	right: 5px;
